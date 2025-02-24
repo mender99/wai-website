@@ -47,4 +47,4 @@ The [WAI Interest Group](/about/groups/waiig/) is a public forum with mailing li
 
 ## Previous groups
 
-See details for [closed working groups and task forces](/about/groups/previous-groups/)
+See details for [closed working groups and task forces](/about/groups/previous-groups/).
